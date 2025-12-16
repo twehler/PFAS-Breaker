@@ -1,0 +1,10 @@
+!PBE D4 def2-TZVPP OPT FREQ SMD(WATER)
+
+%scf
+MaxCore 28672
+end
+
+* xyz 0 1
+F     -2.88918    0.37771   -0.00794
+H     -2.15235    0.14895    0.60524
+*

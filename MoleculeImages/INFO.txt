@@ -1,0 +1,3 @@
+This folder represents a collection of images which demonstrate the structure of special molecules and transition states. 
+
+In this project, they are used under acronyms like "3-fluoropropanoic_acid_defluorinated". 
